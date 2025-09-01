@@ -20,3 +20,8 @@ This code requires the HSL_MA97 linear solver internally with IPOPT. If you wish
 - `cd [project_folder]`
 - `./run_docker.sh'`
 
+## Acknowledgments
+
+The latest version of the trajectory optimization code can be found [here](https://github.com/upatras-lar/se3_trajopt).
+
+This research was supported by the CPER CyberEntreprises, the Creativ’Lab platform of Inria/LORIA, the EU Horizon project euROBIN (GA n.101070596), the French National Research Agency (ANR) under the project ANR-24-CE33-0753-01 (MeRLin), the National Recovery and Resilience Plan Greece 2.0 funded by the European Union under the NextGenerationEU Program (project MIS 5154714).
