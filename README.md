@@ -5,6 +5,16 @@ This is the official repository for the experiment code of the paper "AHMP: Agil
 ## Abstract
 Planning agile whole-body motions for legged and humanoid robots is a fundamental requirement for enabling dynamic tasks such as running, jumping, and fast reactive maneuvers. In this work, we present AHMP, a multi-contact motion planning framework based on bi-level optimization that integrates a contact sequence discovery technique, using the Mixed-Distribution Cross-Entropy Method (CEM-MD), and an efficient trajectory optimization scheme, which parameterizes the robot’s poses and motions in the tangent space of SE(3). AHMP permits the automatic generation of feasible contact configurations, with associated whole-body dynamic transitions. We validate our approach on a set of challenging agile motion planning tasks for humanoid robots, demonstrating that contact sequence discovery combined with tangent space parameterization leads to highly dynamic motion sequences while remaining computationally efficient.
 
+## Cite AHMP
+```tex
+@inproceedings{tsikelis2025ahmp,
+                title={AHMP: Agile Humanoid Motion Planning with Contact Discovery},
+                    author={Tsikelis, Ioannis and Tsiatsianas, Evangelos and Kiourt, Chairi and Ivaldi, Serena and Chatzilygeroudis, Konstantinos and Mingo Hoffman, Enrico},
+                    booktitle={IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
+                    year={2025}
+                    }
+```
+
 ## Docker Installation
 
 ### Add coinhsl libraries (optional)
