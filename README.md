@@ -72,7 +72,7 @@ To cite AHMP in your academic research, please use the following BibTeX entry:
 
 The latest version of the trajectory optimization code can be found [here](https://github.com/upatras-lar/se3_trajopt).
 
-This research was supported by the CPER CyberEntreprises, the Creativ’Lab platform of Inria/LORIA, the EU Horizon project euROBIN (GA n.101070596), the French National Research Agency (ANR) under the project ANR-24-CE33-0753-01 (MeRLin), the National Recovery and Resilience Plan Greece 2.0 funded by the European Union under the NextGenerationEU Program (project MIS 5154714).
+This research was supported by the CPER CyberEntreprises, the Creativ’Lab platform of Inria/LORIA, the EU Horizon project euROBIN (GA n.101070596), the French National Research Agency (ANR) under the project ANR-24-CE33-0753-01 ([MeRLin](https://members.loria.fr/EMingoHoffman/merlin-2024-2028/)), the National Recovery and Resilience Plan Greece 2.0 funded by the European Union under the NextGenerationEU Program ([project MIS 5154714](https://lar.upatras.gr/projects/ibrics.html)).
 
 <p align="center">
   <img width="150" alt="logo_inria" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/f8749971-7ce8-40dc-ae68-cef5890c7982"/>
