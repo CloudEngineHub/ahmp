@@ -75,12 +75,12 @@ The latest version of the trajectory optimization code can be found [here](https
 This research was supported by the CPER CyberEntreprises, the Creativ’Lab platform of Inria/LORIA, the EU Horizon project euROBIN (GA n.101070596), the French National Research Agency (ANR) under the project ANR-24-CE33-0753-01 (MeRLin), the National Recovery and Resilience Plan Greece 2.0 funded by the European Union under the NextGenerationEU Program (project MIS 5154714).
 
 <p align="center">
-<img width="150" margin-right="30px" alt="logo_inria" src="https://github.com/user-attachments/assets/f8749971-7ce8-40dc-ae68-cef5890c7982" />
-<img width="80" margin-right="30px" alt="logo_cnrs" src="https://github.com/user-attachments/assets/96108418-2df4-4054-ac5b-b91b46c74b33" />
-<img width="80" margin-right="30px" alt="logo_loria" src="https://github.com/user-attachments/assets/a6786fb5-39ff-4007-a086-e5dc377f8f08" />
-<img width="150" alt="logo_ul" src="https://github.com/user-attachments/assets/83e56d7a-2d0c-4c34-8994-4e89e2fac954" />
-<br>
-<img width="150" margin-right="30px" alt="logo_upatras" src="https://github.com/user-attachments/assets/cf2306bd-e62f-49dc-a031-cbb2cb73d5eb" />
-<img width="70" margin-right="30px" alt="logo_lar" src="https://github.com/user-attachments/assets/b579dc71-f6fc-42aa-b30e-85dcf141be7c" />
-<img width="150" alt="logo_archimedes" src="https://github.com/user-attachments/assets/98608a5d-7fcc-40f4-b166-c35e1a8c61ed" />
+  <img width="150" alt="logo_inria" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/f8749971-7ce8-40dc-ae68-cef5890c7982"/>
+  <img width="80" alt="logo_cnrs" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/96108418-2df4-4054-ac5b-b91b46c74b33"/>
+  <img width="80" alt="logo_loria" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/a6786fb5-39ff-4007-a086-e5dc377f8f08"/>
+  <img width="150" alt="logo_ul" vspace=15 src="https://github.com/user-attachments/assets/83e56d7a-2d0c-4c34-8994-4e89e2fac954"/>
+  <br>
+  <img width="150" alt="logo_upatras" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/cf2306bd-e62f-49dc-a031-cbb2cb73d5eb" />
+  <img width="70" alt="logo_lar" hspace=15 vspace=15 src="https://github.com/user-attachments/assets/b579dc71-f6fc-42aa-b30e-85dcf141be7c" />
+  <img width="150" alt="logo_archimedes" vspace=15 src="https://github.com/user-attachments/assets/98608a5d-7fcc-40f4-b166-c35e1a8c61ed" />
 </p>
