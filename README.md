@@ -10,7 +10,7 @@ This is the repository of the paper "AHMP: Agile Humanoid Motion Planning with C
 Planning agile whole-body motions for legged and humanoid robots is a fundamental requirement for enabling dynamic tasks such as running, jumping, and fast reactive maneuvers. In this work, we present AHMP, a multi-contact motion planning framework based on bi-level optimization that integrates a contact sequence discovery technique, using the Mixed-Distribution Cross-Entropy Method (CEM-MD), and an efficient trajectory optimization scheme, which parameterizes the robot’s poses and motions in the tangent space of SE(3). AHMP permits the automatic generation of feasible contact configurations, with associated whole-body dynamic transitions. We validate our approach on a set of challenging agile motion planning tasks for humanoid robots, demonstrating that contact sequence discovery combined with tangent space parameterization leads to highly dynamic motion sequences while remaining computationally efficient.
 
 ## Video Presentation
-TBA
+[![Watch our YouTube video](https://img.youtube.com/vi/yIyk8GPU9YE/0.jpg)](https://www.youtube.com/watch?v=yIyk8GPU9YE)
 
 ## Results
 
@@ -62,11 +62,12 @@ This code requires the HSL_MA97 linear solver internally with IPOPT. If you wish
 To cite AHMP in your academic research, please use the following BibTeX entry:
 ```bibtex
 @inproceedings{tsikelis2025ahmp,
-               title={AHMP: Agile Humanoid Motion Planning with Contact Discovery},
-               author={Tsikelis, Ioannis and Tsiatsianas, Evangelos and Kiourt, Chairi and Ivaldi, Serena and Chatzilygeroudis, Konstantinos and Mingo Hoffman, Enrico},
-               booktitle={IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
-               year={2025}
-               }
+  author={Tsikelis, Ioannis and Tsiatsianas, Evangelos and Kiourt, Chairi and Ivaldi, Serena and Chatzilygeroudis, Konstantinos and Mingo Hoffman, Enrico},
+  booktitle={2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)}, 
+  title={AHMP: Agile Humanoid Motion Planning with Contact Sequence Discovery}, 
+  year={2025},
+  pages={33-40},
+  doi={10.1109/Humanoids65713.2025.11203211}}
 ```
 ## Acknowledgments
 
